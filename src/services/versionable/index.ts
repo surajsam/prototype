@@ -1,0 +1,1 @@
+export { VersionableRepository } from './versionableRepository';
